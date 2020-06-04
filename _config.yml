@@ -1,0 +1,23 @@
+app:
+  title: 'Prenters Engineering Ltd'
+  name: 'Prenters Engineering Ltd'
+  author: 'niden.net'
+  description: 'Prenters Engineering Ltd website'
+  keywords: 'Prenters, engineering, Prenters Engineering, under construction'
+  email: 'info@prenters.cy'
+
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable: true
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - serve
+
+
+
